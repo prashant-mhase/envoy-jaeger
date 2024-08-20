@@ -1,10 +1,14 @@
 [
     {
-        "envoy": "v1.11.1",
+        "envoy": "v1.12.7",
         "jaeger": "0.4.2",
         "tags": [
             "latest"
         ]
+    },
+    {
+        "envoy": "v1.11.1",
+        "jaeger": "0.4.2"
     },
     {
         "envoy": "v1.9.0",
